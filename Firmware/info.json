@@ -1,0 +1,20 @@
+{
+  "keyboard_name": "my_sayo",
+  "manufacturer": "baina",
+  "processor": "SAMD21",
+  "bootloader": "caterina",
+
+  "matrix_pins": {
+    "direct": ["D0", "D1", "D2"]
+  },
+
+  "encoder": {
+    "rotary": [
+      { "pin_a": "D8", "pin_b": "D9" }
+    ]
+  },
+
+  "features": {
+    "oled": true
+  }
+}
