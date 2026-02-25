@@ -1,5 +1,6 @@
 CAD MODEL:
 <img width="1920" height="879" alt="image" src="https://github.com/user-attachments/assets/7296311a-326d-42ee-b406-f11db2110955" />
+<img width="1920" height="871" alt="image" src="https://github.com/user-attachments/assets/44c87a9c-ebd0-46d0-b8ab-b0a720b08386" />
 As far as I'm aware everything will work with 6 screws 4 for the lid and 2 for the board. Potentially if I use 2 screws for the lid and 2 for the board I will only need 4 M3 bolts
 
 PCB:
