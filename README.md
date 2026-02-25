@@ -14,11 +14,19 @@ I used QMK with the first key as W for jump in GD, and the other 2 keys are copy
 Pressing the rotary encoder will mute and scrolling up and down will make volume go up and down.
 
 BOM:
-3x Cherry MX Switches
-3x DSA Keycaps
-4x M3x12mm SHCS Bolts
-2x M3x6mm SHCS Bolts
-1x 0.91" 128x32 OLED Display
-1x EC11 Rotary Encoder
-1x Seeed XIAO RP2040
-1x Case {3 printed parts} (I have a 3d printer at home so I can get this myself)
+
+* 3x Cherry MX Switches
+* 
+* 3x DSA Keycaps
+* 
+* 4x M3x12mm SHCS Bolts
+* 
+* 2x M3x6mm SHCS Bolts
+* 
+* 1x 0.91" 128x32 OLED Display
+* 
+* 1x EC11 Rotary Encoder
+* 
+* 1x Seeed XIAO RP2040
+* 
+* 1x Case {3 printed parts} (I have a 3d printer at home so I can get this myself)
