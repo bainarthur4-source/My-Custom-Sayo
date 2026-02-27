@@ -47,5 +47,5 @@ Pressing the rotary encoder will mute and scrolling up and down will make volume
 * 1x EC11 Rotary Encoder
   
 * 1x Seeed XIAO RP2040
-* 
+  
 * 1x Case {3 printed parts} (I have a 3d printer at home so I can get this myself)
