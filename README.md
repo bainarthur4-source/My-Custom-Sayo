@@ -34,4 +34,4 @@ Pressing the rotary encoder will mute and scrolling up and down will make volume
 
 # BOM:
 
-[Download BOM (CSV)](Sayo BOM - Sheet1 (1).csv)
+[Download BOM (CSV)](SayoBOM-Sheet1(1).csv)
