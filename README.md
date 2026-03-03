@@ -18,10 +18,10 @@ As far as I'm aware everything will work with 6 screws 4 for the lid and 2 for t
 ---
 
 # PCB:
-<img width="1381" height="839" alt="image" src="https://github.com/user-attachments/assets/d7d16a16-68fd-40a8-a7a1-0b17bd742707" />
+<img width="1030" height="604" alt="image" src="https://github.com/user-attachments/assets/0fc23ce7-2045-4b42-b8e7-4b0ea5f14f1e" />
 Schematic made in KiCad
 
-<img width="893" height="632" alt="image" src="https://github.com/user-attachments/assets/53b66718-d8d1-429b-8d91-b371283c5eac" />
+<img width="887" height="573" alt="image" src="https://github.com/user-attachments/assets/d7ae6a77-e7ae-4afa-b8d6-db98752be3f8" />
 PCB also made in KiCad
 
 ---
